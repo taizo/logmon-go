@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/takeshy/tail"
+	"github.com/taizo/tail"
 	"io/ioutil"
 	"os"
 	"os/exec"
